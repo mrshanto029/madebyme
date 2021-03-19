@@ -1,0 +1,59 @@
+body{
+   margin: 150px;
+}
+.container
+{
+    margin-bottom: 100px;
+    margin-top: 50px;
+    
+}
+.buy
+{
+    background-image: linear-gradient(to bottom,#ff589B 0%,#ff136f 100%);
+    color: #FFF;
+    border: none;
+    border-radius: 10px;
+    padding: 9px 25px;
+    cursor: pointer;
+    
+
+}
+#carousel-app
+{
+    background-image: url("hot-gadgets/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50px;
+}
+.navi
+{
+    background-color: whitesmoke;
+}
+.see
+{
+    color: yellow;
+}
+.img{
+    height: 250px;
+    width: 200px;
+}
+.card
+{
+    align-items: center;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+
+.card-body
+{
+    text-align: center;
+}
+/* #bal */
+/* {
+   background-color: #ffffff; 
+   align-items: center;
+   border: none;
+   box-shadow: 5px 5px 10px lightgray;
+   border-radius: 10px;
+} */
